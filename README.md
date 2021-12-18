@@ -1,4 +1,4 @@
-Add a toy web with 8 6 simple functions, wich CI scripts in codes and log printer of CPU usage and memory usage and a health check.
+Add a toy web with 6 simple functions, wich CI scripts in codes and log printer of CPU usage and memory usage and a health check.
 Each zip file can be seen as a micro server. All the deployment works are based on docker and QPC cluster management(I borrow the resources from my friend).
 You can check the toy web in this link: http://editor.40300217.qpc.hal.davecutting.uk/  
 Next step I will try to use AWS or GCP to add some data persistence function.
